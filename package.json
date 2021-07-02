@@ -1,0 +1,21 @@
+{
+  "name": "passcord",
+  "description": "Passcord is a package that allows you to generate codes with different types of characters and length.",
+  "author": "avaxwzy <avaxwzy@gmai.com>",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "bugs": {
+    "url": "https://github.com/AvaxWzy/passcord/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AvaxWzy/passcord.git"
+  },
+  "keywords": [
+    "passcord",
+    "nodejs",
+    "generator"
+  ],
+  "types": "lib/index.d.ts",
+  "license": "MIT"
+}
